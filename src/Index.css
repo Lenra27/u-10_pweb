@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home-jsx {
+    background: url('assets/r6.jpg') center center;
+    background-size: cover;
+    padding: 4rem 0;
+}
+
+.contact-jsx{
+    background: url('assets/rmptflat.jpg') center center;
+    background-size: cover;
+    padding: 4rem 0;
+}
+
+.about-jsx{
+    background: url('assets/r5.jpg') center center;
+    background-size: cover;
+    padding: 4rem 0;
+    height: 100vh;
+}
